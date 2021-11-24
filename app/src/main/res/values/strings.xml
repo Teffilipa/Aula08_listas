@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula08_listas</string>
+    <string name="texto_do_item">Texto do item</string>
+    <string name="n_mero_do_item">Número do item</string>
+</resources>
